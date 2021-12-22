@@ -1,5 +1,4 @@
-This is important!
+This is important text!
 
-The lock pin from the Gittarro's door is: 6669.
 
 
